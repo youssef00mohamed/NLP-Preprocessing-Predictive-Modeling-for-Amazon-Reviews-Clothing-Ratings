@@ -50,18 +50,18 @@ The project is structured into two main phases:
    cd NLP-Preprocessing-Predictive-Modeling-for-Amazon-Reviews-Clothing-Ratings
    ```
 
-3. **Install the required dependencies:**
+2. **Install the required dependencies:**
 
    ```bash
    pip install -r requirements.txt
    ```
    
-4. **Run the preprocessing and modeling script :**
+3. **Run the preprocessing and modeling script :**
    ```bash
    jupyter notebook Preprocessing and Predictive modeling.ipynb
    ```
 
-5. **View results:**
+4. **View results:**
    - After training and evaluation, the model achieved an accuracy of XX% on predicting product ratings.
 
 ## Contributions

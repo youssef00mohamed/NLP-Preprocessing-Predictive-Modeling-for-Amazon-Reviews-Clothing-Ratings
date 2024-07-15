@@ -1,0 +1,3 @@
+Link to the train dataset: https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
+
+Link to the clothing dataset: https://www.kaggle.com/datasets/jocelyndumlao/consumer-review-of-clothing-product
